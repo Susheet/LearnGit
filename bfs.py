@@ -42,4 +42,4 @@ print(traversed)
 
 end = time.time()
 print(end - starttime)
-# print(space,"space complexity")
+print(space,"space complexity")
